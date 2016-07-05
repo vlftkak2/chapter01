@@ -7,7 +7,9 @@ public class Arith {
 		
 		int a=7;
 		int b=3;
+		int c=10;
 		
+		System.out.println(c);
 		System.out.println(a+b);
 		System.out.println(a-b);
 		System.out.println(a*b);
